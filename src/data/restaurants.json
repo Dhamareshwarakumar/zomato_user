@@ -1,0 +1,263 @@
+[
+  {
+    "id": "1",
+    "name": "The Golden Spoon",
+    "estimatedDeliveryTimeAverage": 32,
+    "estimatedDeliveryDistance": 3,
+    "items": [
+      "Pizza",
+      "Biryani",
+      "Burger"
+    ],
+    "rating": 4.0,
+    "location": "Eluru Locality, Eluru",
+    "reviews": 6249,
+    "image": "https://b.zmtcdn.com/data/dish_photos/b3c/5adef625c26035ea6787fe89bdc4bb3c.jpg",
+    "dishes": [
+      {
+        "id": "1",
+        "name": "Chicken Hot and Crispy",
+        "description": "6 pieces of chese with sauce. [Dummy]",
+        "price": 170,
+        "rating": 4,
+        "reviews": 130,
+        "type": "Non-Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/a27/ed478a6b20ccae4cbd80032513a97a27.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Chicken Popcorn",
+        "description": "Double meat, gouda cheese, cheddar cheese, cooked ham, bacon, egg, salad and rustic potatoes. [Dummy]",
+        "price": 189,
+        "rating": 4,
+        "reviews": 200,
+        "type": "Non-Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/d28/7d5453a738ae9fc7b21b6f4d36321d28.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Classic Fries",
+        "description": "Beef, gouda cheese, cheddar cheese, cooked ham, bacon, egg and salad. [Dummy]",
+        "price": 99,
+        "rating": 4,
+        "reviews": 167,
+        "type": "Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/75a/c5377b461ebfc28c202d76c6c5dae75a.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Tandoori Paneer Pizza",
+        "description": "Ripe plantain with cheese and palm honey.[Dummy]",
+        "price": 220,
+        "rating": 3.8,
+        "reviews": 90,
+        "type": "Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/a93/81700806e23760949c825ac823ef9a93.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Chicken BBQ Grilled Sandwich hello",
+        "description": "French fries with shredded chicken, gouda cheese and ham.[Dummy]",
+        "price": 159,
+        "rating": 4.1,
+        "reviews": 103,
+        "type": "Non-Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/e51/fb895dfd387c484d80a64de8f6d22e51.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Ambica Flavours",
+    "estimatedDeliveryTimeAverage": 36,
+    "estimatedDeliveryDistance": 4,
+    "items": [
+      "Biryani",
+      "Chinese",
+      "North Indian"
+    ],
+    "rating": 3.7,
+    "location": "Eluru Locality, Eluru",
+    "reviews": 4324,
+    "image": "https://b.zmtcdn.com/data/pictures/4/18933574/8500a410c5cc7e25dafcde7cd9de9c99.jpg",
+    "dishes": [
+      {
+        "id": "1",
+        "name": "Chicken Fried Rice",
+        "description": "French fries with shredded chicken, gouda cheese and ham.[Dummy]",
+        "price": 260,
+        "rating": 3.3,
+        "reviews": 128,
+        "type": "Non-Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/950/aadf631ed46d18c7af4d467461f89950.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Chicken Fry Piece Biryani",
+        "description": "French fries with shredded chicken, gouda cheese and ham.[Dummy]",
+        "price": 340,
+        "rating": 4.8,
+        "reviews": 112,
+        "type": "Non-Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/fda/58671ee8de2f65595a12967c5208afda.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Chicken 65 Biryani",
+        "description": "French fries with shredded chicken, gouda cheese and ham.[Dummy]",
+        "price": 340,
+        "rating": 3.5,
+        "reviews": 49,
+        "type": "Non-Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/4b8/92c377bee4efdced44b876bf18b5e4b8.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Paneer Dum Biryani",
+        "description": "French fries with shredded chicken, gouda cheese and ham.[Dummy]",
+        "price": 280,
+        "rating": 3.9,
+        "reviews": 94,
+        "type": "Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/731/de62782448d09055012c55c7dfa3b731.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Paneer Dum Biryani",
+        "description": "French fries with shredded chicken, gouda cheese and ham.[Dummy]",
+        "price": 290,
+        "rating": 3.5,
+        "reviews": 10,
+        "type": "Non-Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/721/aaee6e6d89529158f626161012af9721.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Brewberrys Coffee House",
+    "estimatedDeliveryTimeAverage": 34,
+    "estimatedDeliveryDistance": 3,
+    "rating": 3.7,
+    "location": "Eluru Locality, Eluru",
+    "reviews": 3208,
+    "items": [
+      "Pizza",
+      "Coffee",
+      "Desserts"
+    ],
+    "image": "https://b.zmtcdn.com/data/dish_photos/d8e/3b2a6860d5526775950f083b0fe23d8e.jpg",
+    "dishes": [
+      {
+        "id": "1",
+        "name": "Chicken Mexican Tandoori Burger",
+        "description": "French fries with shredded chicken, gouda cheese and ham.[Dummy]",
+        "price": 149,
+        "rating": 3.2,
+        "reviews": 36,
+        "type": "Non-Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/b85/c9a0957c52c24bf26c2f92ab25977b85.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Veg Fingers",
+        "description": "French fries with shredded chicken, gouda cheese and ham.[Dummy]",
+        "price": 109,
+        "rating": 4,
+        "reviews": 4,
+        "type": "Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/cb4/9a29c6100d8098b71fafdf15e4765cb4.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Cheese and Chutney Sandwich",
+        "description": "French fries with shredded chicken, gouda cheese and ham.[Dummy]",
+        "price": 125,
+        "rating": 3.9,
+        "reviews": 10,
+        "type": "Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/fcb/ca447fcaeda75f96291c72bdcf54ffcb.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Fruity Treat Sundae",
+        "description": "French fries with shredded chicken, gouda cheese and ham.[Dummy]",
+        "price": 199,
+        "type": "Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/01c/5f9b625907ec84d69d41f4ed2de0101c.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Spicy Chicken Classic Burger",
+        "description": "French fries with shredded chicken, gouda cheese and ham.[Dummy]",
+        "price": 149,
+        "rating": 3,
+        "reviews": 23,
+        "type": "Non-Veg",
+        "likes": [],
+        "image": "https://b.zmtcdn.com/data/dish_photos/6d7/20cc044eeffe1e05d8f47a8433b526d7.jpg"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Akarsh Pride Multi Cuisine Restaurant",
+    "estimatedDeliveryTimeAverage": 34,
+    "estimatedDeliveryDistance": 3,
+    "rating": 3.6,
+    "location": "Eluru Locality, Eluru",
+    "reviews": 23000,
+    "items": [
+      "Biryani",
+      "Chinese",
+      "North Indian"
+    ],
+    "image": "https://b.zmtcdn.com/data/dish_photos/dca/c370a65004fb1ec1eac1fce88e549dca.jpg",
+    "dishes": [
+      {
+        "id": "1",
+        "name": "English burger",
+        "description": "Beef with bacon, portobello mushrooms, tomato, cheddar cheese, grilled egg and our smoked sauce.",
+        "price": 14.90
+      },
+      {
+        "id": "2",
+        "name": "Mexican Burger",
+        "description": "Beef, with pico de gallo, veggie chili, cheddar cheese, guacamole and smoked sauce.",
+        "price": 14.90
+      },
+      {
+        "id": "3",
+        "name": "Tequeños",
+        "description": "Crispy sticks filled with melted cheese accompanied by tomato chutney.",
+        "price": 9.90
+      },
+      {
+        "id": "4",
+        "name": "Starters Combo",
+        "description": "Tequeños, crispy onion and chicken delicacies.",
+        "price": 13.90
+      },
+      {
+        "id": "5",
+        "name": "Cesar Salad",
+        "description": "Green sprouts, pieces of grilled bacon, chicken delicacies, grated Parmesan, muffin croutons and fried onion confetti dressed with Caesar sauce.",
+        "price": 10.50
+      }
+    ]
+  }
+]
